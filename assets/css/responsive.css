@@ -1,7 +1,12 @@
+
+
 /* Max width 576px */
 @media (max-width: 576px) {
+	.heading{
+		height: 300px;
+	}
 	.main-heading{
-		height: 250px;
+		height: 150px;
 	}
 	.license{
 		margin: 10%;
@@ -16,9 +21,10 @@
 	.heading{
 		padding-right: 4%;
 		padding-left: 4%;
+		height: 300px;
 	}
 	.main-heading{
-		height: 430px;
+		height: 450px;
 	}
 
 
